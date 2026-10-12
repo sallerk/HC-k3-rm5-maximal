@@ -1,0 +1,63 @@
+{
+ "prime": 31981,
+ "seed": 0,
+ "ic_terms": [
+  4,
+  16,
+  56,
+  246
+ ],
+ "x5p1_I2_I4_I6": [
+  0,
+  0,
+  0
+ ],
+ "ic_gl2_covariance_ok": true,
+ "H5_weighted_degree": 12,
+ "H5_terms": 16,
+ "H5_on_TTV": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "H5_on_random": [
+  774,
+  8908,
+  2396,
+  5656,
+  20276
+ ],
+ "G_F0_is_zero": true,
+ "rank_J": 11,
+ "dim_kerJ": 17,
+ "stab_in_kerJ": true,
+ "vGS_in_kerJ": true,
+ "dim_kerJ_plus_gl3_mod_gl3": 10,
+ "RMtan_in_kerJ_plus_gl3": true,
+ "dim_U": 14,
+ "dim_(RM+gl3)_cap_kerJ": 15,
+ "U_in_E": true,
+ "Q_U_outside_ImJ": 0,
+ "Q_eRM_outside_ImJ": 0,
+ "B_U_eRM_outside_ImJ": 0,
+ "dim_kerJ_mod_U": 3,
+ "B_U_kerJ_outside_ImJ": 0,
+ "coker_dim": 50,
+ "rank_quadric_system": 2,
+ "second_order_cone_points_P2": [
+  [
+   1,
+   0,
+   0
+  ],
+  [
+   0,
+   1,
+   0
+  ]
+ ],
+ "second_order_cone_npoints": 2,
+ "note": "outside_ImJ = rank increase of [J | vectors] over rank J (0 = in Im J)"
+}

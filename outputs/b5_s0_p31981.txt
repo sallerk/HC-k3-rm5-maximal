@@ -1,0 +1,4 @@
+{"G_nonzero_s_orders_up_to_49": [], "fibres_isomorphic_to_F0_fibres": [false, false, false, false, false, false], "F0_at_P0_after_deformation": "coefficient of x2^6 in w2: 13453"}
+pcoef [25472, 14056, 21948, 24915, 3248, 12897, 11566] acoef [2062, 15332, 5431]
+w1 = 4124*x0^5*x2 + 30664*x0^4*x1*x2 + 10862*x0^3*x1^2*x2 + 31980*x0^3*x2^3
+w2 = 1159*x0^5*x2 + 24535*x0^4*x1*x2 + 13483*x0^3*x1^2*x2 + 26770*x0^2*x1^3*x2 + 6317*x0*x1^4*x2 + 24630*x1^5*x2 + 13453*x2^6

@@ -1,0 +1,4 @@
+nu = x0**6 + x0*x1**5 + x1**6 | b = x0**3 + x1**3 | eps = 5
+4F = 4*x0**6 + 40*x0**3*x1**2*x2 - 20*x0**3*x2**3 + 4*x0*x1**5 - 20*x0*x1**4*x2 + 4*x1**6 - 20*x1**3*x2**3 + 4*x1*x2**5 + 5*x2**6
+smooth (R_13 = 0 mod 1000003 and 32003): True | rank over Q: 17 -> moduli 8 | fibre identity: True
+vGS control rank over Q: 16 (expect 16)

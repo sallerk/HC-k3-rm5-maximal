@@ -1,0 +1,7 @@
+(1) H5 on fibre family (8 random b, nu, eps): [0, 0, 0, 0, 0, 0, 0, 0]
+(2/3) trial 0 vGS (eps=0, beta=0)        H5 on 40 fibres: all 0 | (g,h) not found: 0 | Legendre(z^2) sets: [(-1,)]
+(2/3) trial 0 new (eps = 5 beta^2/p6)    H5 on 40 fibres: all 0 | (g,h) not found: 0 | Legendre(z^2) sets: [(-1,)]
+(2/3) trial 1 vGS (eps=0, beta=0)        H5 on 40 fibres: all 0 | (g,h) not found: 0 | Legendre(z^2) sets: [(-1,)]
+(2/3) trial 1 new (eps = 5 beta^2/p6)    H5 on 40 fibres: all 0 | (g,h) not found: 0 | Legendre(z^2) sets: [(-1,)]
+(2/3) trial 2 vGS (eps=0, beta=0)        H5 on 40 fibres: all 0 | (g,h) not found: 0 | Legendre(z^2) sets: [(-1,)]
+(2/3) trial 2 new (eps = 5 beta^2/p6)    H5 on 40 fibres: all 0 | (g,h) not found: 0 | Legendre(z^2) sets: [(-1,)]

@@ -1,0 +1,4 @@
+(a) H5 on EK parametrisation == 0: True | factor_list of H5 over Q: [(8, 1)]
+(b) integer IC polys == IC from roots at 6 random exact sextics: True
+(c) rank of d(g, h)/d(b, nu, eps) at a rational point: 2
+(d) remainder zero: True | dim R_13 = 0 (0 = smooth) | F(0,0,1) = 96273

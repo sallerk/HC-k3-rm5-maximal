@@ -1,0 +1,13 @@
+I2: 4 isobaric monomials, held-out samples agree: True
+I4: 18 isobaric monomials, held-out samples agree: True
+I6: 58 isobaric monomials, held-out samples agree: True
+I10: 338 isobaric monomials, held-out samples agree: True
+I10 == discriminant of the generic sextic: True
+I2 == 6a3^2 - 16a2a4 + 40a1a5 - 240a0a6: True
+I2, I4, I6, I10 of f as displayed: [True, True, True, True]
+I_k == (125 b^2)^w J_k(g, h), w = 1, 2, 3, 5: [True, True, True, True]
+Phi(g, h) == 5 (Q/(2000 b^5))^2: True
+529.a.529.1: our invariants [-568, 9604, -1973112, 2166784] == mu^w * LMFDB values, mu = -2 : [True, True, True, True]
+529.a.529.1: all (g, h) on the parametrisation: [(-49/54, 23/243)]
+  Phi = 2748964/6561 | square in Q: True | sqrt = 1658/81
+control, 529.a.529.1 with I2 halved: all (g, h): []

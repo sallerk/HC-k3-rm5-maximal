@@ -1,0 +1,7 @@
+(a) vGS: 10 params, rank 16 -> dim in moduli 7
+(a) new: 11 params, rank 17 -> dim in moduli 8
+    new F at x1 = 0: (20*b0**2*x0**6 + 40*b0*b1*eps*x0**5*x2 - 20*b0*eps*x0**3*x2**3 - 4*eps**2*p1*x0**5*x2 + eps**2*x2**6)/(4*eps)
+(b) random line 0 in H5: Legendre(z^2) counts +1: 20, -1: 20
+(b) random line 1 in H5: Legendre(z^2) counts +1: 21, -1: 19
+(b) random line 2 in H5: Legendre(z^2) counts +1: 10, -1: 30
+(b) random line 3 in H5: Legendre(z^2) counts +1: 19, -1: 21

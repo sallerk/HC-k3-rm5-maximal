@@ -1,0 +1,8 @@
+I2 = 6f3^2 - 16f2f4 + 40f1f5 - 240f0f6: True
+displayed I2, I4, I6, I10 correct: [True, True, True, True]
+I_k = lambda^w J_k (w = 1, 2, 3, 5): [True, True, True, True]
+Phi = Q^2/(800000 b^10): True | = 5 (Q/(2000 b^5))^2: True
+H5(I) == 0: True
+expanded F == definition under 5 beta^2 = eps nu0: True
+F(t, 1, z) == f_{b(t,1), nu(t,1), eps}(z): True
+F(x0, eps x2, x2) == (5/eps)(eps x2^3/2 - b(x0, eps x2))^2: True
