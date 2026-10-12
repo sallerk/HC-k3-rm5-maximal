@@ -1,7 +1,7 @@
 # HC-k3-rm5-maximal
 
 Code and data supporting the note *An explicit eight-dimensional family of K3 surfaces with real multiplication by
-Q(√5)* (Kevin Saller, 2026).
+Q(√5)* (Kevin Saller, 2026), DOI [10.5281/zenodo.23309349](https://doi.org/10.5281/zenodo.23309349).
 
 **Result.** The note gives an explicit family of double planes w^2 = F(x_0,x_1,x_2), branched along plane sextics that
 depend on a binary sextic ν, a binary cubic b and a number ε subject to one quadratic relation. Its very general member

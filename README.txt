@@ -2,7 +2,7 @@ Supporting code and data for the note
 "An explicit eight-dimensional family of K3 surfaces with real multiplication by Q(sqrt5)"
 ==========================================================================================
 
-Status: accompanies the note (Kevin Saller, 2026); not peer reviewed.
+Status: accompanies the note (Kevin Saller, 2026, DOI 10.5281/zenodo.23309349); not peer reviewed.
 
 What the note proves: let nu be a binary sextic, b a binary cubic in (x0, x1) and eps a number with
 5 b0^2 = eps nu0 (b0, nu0 the coefficients of x0^3, x0^6), and let
